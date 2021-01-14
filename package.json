@@ -1,0 +1,7 @@
+{
+  "name": "size-limit-berry",
+  "devDependencies": {
+    "@size-limit/preset-app": "^4.9.1",
+    "size-limit": "^4.9.1"
+  }
+}
