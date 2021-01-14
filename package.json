@@ -1,15 +1,8 @@
 {
   "name": "size-limit-berry",
-  "devDependencies": {
-    "@size-limit/preset-app": "^4.9.1",
+  "dependencies": {
+    "@size-limit/preset-small-lib": "^4.9.1",
+    "@size-limit/time": "^4.9.1",
     "size-limit": "^4.9.1"
-  },
-  "dependenciesMeta": {
-    "@size-limit/preset-app@4.9.1": {
-      "unplugged": true
-    },
-    "size-limit@4.9.1": {
-      "unplugged": true
-    }
   }
 }

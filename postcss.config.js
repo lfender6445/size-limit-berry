@@ -19,7 +19,6 @@ const prod = process.env.PRODUCTION
 
 module.exports = {
   plugins: {
-    tailwindcss: require('./tailwind.config'),
     ...prod,
   },
 }
