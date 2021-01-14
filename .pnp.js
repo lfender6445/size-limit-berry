@@ -130,14 +130,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["@size-limit/preset-app", [
         ["npm:4.9.1", {
-          "packageLocation": "./.yarn/cache/@size-limit-preset-app-npm-4.9.1-60b023985a-8df918a1ff.zip/node_modules/@size-limit/preset-app/",
+          "packageLocation": "./.yarn/unplugged/@size-limit-preset-app-virtual-ea8d2c34e1/node_modules/@size-limit/preset-app/",
           "packageDependencies": [
             ["@size-limit/preset-app", "npm:4.9.1"]
           ],
           "linkType": "SOFT",
         }],
         ["virtual:809dd71661b24d9a73a716e951cf66573105dffaf0b47c917ac6302251922d2ba6445bda397d3ea491d43c77420ce2f2bc6acda91c6753916d082c0802e4ca9b#npm:4.9.1", {
-          "packageLocation": "./.yarn/$$virtual/@size-limit-preset-app-virtual-ea8d2c34e1/0/cache/@size-limit-preset-app-npm-4.9.1-60b023985a-8df918a1ff.zip/node_modules/@size-limit/preset-app/",
+          "packageLocation": "./.yarn/unplugged/@size-limit-preset-app-virtual-ea8d2c34e1/node_modules/@size-limit/preset-app/",
           "packageDependencies": [
             ["@size-limit/preset-app", "virtual:809dd71661b24d9a73a716e951cf66573105dffaf0b47c917ac6302251922d2ba6445bda397d3ea491d43c77420ce2f2bc6acda91c6753916d082c0802e4ca9b#npm:4.9.1"],
             ["@size-limit/file", "virtual:ea8d2c34e1698c9aff88c359a2956490e2fdb4e7b6e7a085742416a81428f64ec2d5dae8ee05189a732ee6340e7a5a1bf8efd70ab43ea519981209dfffdd4d66#npm:4.9.1"],
@@ -2164,7 +2164,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["size-limit", [
         ["npm:4.9.1", {
-          "packageLocation": "./.yarn/cache/size-limit-npm-4.9.1-21b9cf9b01-f6b194fd15.zip/node_modules/size-limit/",
+          "packageLocation": "./.yarn/unplugged/size-limit-npm-4.9.1-21b9cf9b01/node_modules/size-limit/",
           "packageDependencies": [
             ["size-limit", "npm:4.9.1"],
             ["bytes", "npm:3.1.0"],

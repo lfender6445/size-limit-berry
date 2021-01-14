@@ -1841,6 +1841,11 @@ resolve@^1.10.0:
   dependencies:
     "@size-limit/preset-app": ^4.9.1
     size-limit: ^4.9.1
+  dependenciesMeta:
+    "@size-limit/preset-app@4.9.1":
+      unplugged: true
+    size-limit@4.9.1:
+      unplugged: true
   languageName: unknown
   linkType: soft
 
