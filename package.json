@@ -1,8 +1,7 @@
 {
   "name": "size-limit-berry",
   "dependencies": {
-    "@size-limit/preset-small-lib": "^4.9.1",
-    "@size-limit/time": "^4.9.1",
+    "@size-limit/file": "^4.9.1",
     "size-limit": "^4.9.1"
   }
 }
